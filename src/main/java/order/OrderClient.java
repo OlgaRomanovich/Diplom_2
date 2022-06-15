@@ -1,6 +1,5 @@
-package ORDER;
-import USER.BurgerRestClient;
-import USER.User;
+package order;
+import user.BurgerRestClient;
 import io.qameta.allure.Step;
 import io.restassured.response.ValidatableResponse;
 import static io.restassured.RestAssured.given;

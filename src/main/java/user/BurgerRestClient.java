@@ -1,4 +1,4 @@
-package USER;
+package user;
 
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.specification.RequestSpecification;

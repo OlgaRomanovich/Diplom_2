@@ -1,4 +1,4 @@
-package ORDER;
+package order;
 
 public class Order {
 

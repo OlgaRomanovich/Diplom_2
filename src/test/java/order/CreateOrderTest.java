@@ -1,8 +1,8 @@
-package ORDER;
+package order;
 
-import USER.User;
-import USER.UserClient;
-import USER.UserCredentials;
+import user.User;
+import user.UserClient;
+import user.UserCredentials;
 import io.qameta.allure.Description;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.ValidatableResponse;

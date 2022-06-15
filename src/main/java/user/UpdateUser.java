@@ -1,4 +1,4 @@
-package USER;
+package user;
 
 public class UpdateUser {
     public String email;

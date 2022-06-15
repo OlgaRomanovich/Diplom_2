@@ -1,4 +1,4 @@
-package USER;
+package user;
 
 public class UserCredentials {
     private final String email;
